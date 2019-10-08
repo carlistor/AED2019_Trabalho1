@@ -26,4 +26,11 @@ Integração com Github (repositório e controle de códigos): 20%
 - [ ] verá fazer uso de estruturas de dados aprendidas como listas, vetores ou matrizes.
 ## Conceito
 
+Um Sistema de gerenciamento de pessoas desaparecidas.
+Onde permite a um usuário pesquisar ou adicionar informações de um ente querido, e gerar informações sobre possíveis pessoas desaparecidas.
+O Sistema Possuirá 3 Niveis de Acesso.
+- Acesso De Administrador (Protegido por senha): Possui acesso total sobre todas as informções dos usuários e de estatisticas de baseadas em area.
+- Acesso De Familia (Protegido por BO): Possui acesso a parte de cadastro e pesquisa de pessoas cadastradas.
+- Acesso Publico : Possui acesso a lista de pessoas desaparecidas, e acesso a parte denuncia.
+
 
